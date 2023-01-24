@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6dce5945-cc7d-43c8-a35f-46eaebd46b55" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/blue-green/film-storage-back-rollout.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/blue-green/film-storage-back-rollout.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canary/film-storage-analysis-template.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/canary/film-storage-analysis-template.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/argocd/film-storage-blue-green.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/argocd/film-storage-blue-green.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674555107918</updated>
-      <workItem from="1674555109945" duration="1107000" />
+      <workItem from="1674555109945" duration="1687000" />
     </task>
     <servers />
   </component>
